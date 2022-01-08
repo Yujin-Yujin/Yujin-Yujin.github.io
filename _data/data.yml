@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Yu Jin Kim
     tagline: MS student
-    avatar: IMG_6762.JPG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: grad.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: yujin000731@yonsei.ac.kr
