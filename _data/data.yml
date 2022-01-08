@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Yu Jin Kim
     tagline: MS student
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile2.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: yujin000731@yonsei.ac.kr
@@ -51,11 +51,14 @@ career-profile:
     title: Hello!
     summary: |
       I am a MS student in Artificial Intelligence at Yonsei University, advised py Prof. Jinyoung Yeo in Convei Lab.
+      
       Now, I am a visiting researcher at the University of Southern California.
+      
       I am interested in 
       - Machine Reasoning (Commonsense Reasoning)
       - Knowledge Graph
       - Natural Language Processing
+      
       You can contact me via e-mail.
 education:
     - degree: Visiting Researcher
@@ -112,31 +115,24 @@ experiences:
         - Developing the model using Bi-DAF by considering the task as an MRC task
 
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    title: Teaching & Advising
+    # intro: >
+    #   You can list your side projects or open source libraries in this
+    #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: TA for AI specialized course NLP (Prof. Jinyeong Yeo)
+        link: "#"
+        tagline: Yonsei University, South Korea, 2021 Fall Semester
+
+      - title: TA for Software Capstone Design (Prof. Jinyeong Yeo)
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: Yonsei University, South Korea, 2021 Spring Semester
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
+      - title: TA for Software Capstone Design (Prof. Jinyeong Yeo)
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: Yonsei University, South Korea, 2020 Fall Semester
 
 publications:
     title: Publications
