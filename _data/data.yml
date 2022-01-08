@@ -50,7 +50,9 @@ sidebar:
 career-profile:
     title: Hello!
     summary: |
-      I am a MS student in Artificial Intelligence at Yonsei University, advised py Prof. Jinyoung Yeo in Convei Lab.
+      I am a MS student in Artificial Intelligence at Yonsei University, 
+      
+      advised py Prof. Jinyoung Yeo in Convei Lab.
       
       Now, I am a visiting researcher at the University of Southern California.
       
@@ -121,18 +123,18 @@ projects:
     #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: TA for AI specialized course NLP (Prof. Jinyeong Yeo)
-        link: "#"
-        tagline: Yonsei University, South Korea, 2021 Fall Semester
+      - role: TA for AI specialized course NLP (Prof. Jinyeong Yeo)
+        time: 2021 Fall Semester
+        company: Yonsei University, South Korea 
 
-      - title: TA for Software Capstone Design (Prof. Jinyeong Yeo)
-        link: "#hook"
-        tagline: Yonsei University, South Korea, 2021 Spring Semester
+      - role: TA for Software Capstone Design (Prof. Jinyeong Yeo)
+        time: 2021 Spring Semester
+        company: Yonsei University, South Korea 
 
 
-      - title: TA for Software Capstone Design (Prof. Jinyeong Yeo)
-        link: "#"
-        tagline: Yonsei University, South Korea, 2020 Fall Semester
+      - role: TA for Software Capstone Design (Prof. Jinyeong Yeo)
+        time: 2020 Fall Semester
+        company: Yonsei University, South Korea 2020 Fall Semester
 
 publications:
     title: Publications
