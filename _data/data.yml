@@ -143,7 +143,7 @@ publications:
     #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
     #   bibendum fringilla a eu lectus.
     papers:
-      - title: Modularized Transfer Learning with Multiple Knowledge Graphs for Zero-shot Commonsense Reasoning
+      - title: Modularized Transfer Learning with Multiple Knowledge Graphs for Commonsense Reasoning
         link: "#"
         authors: Yu Jin Kim, Beong-woo Kwak, Youngwook Kim, Reinald Kim Amplayo, Seung-won Hwang, Jinyoung Yeo
         conference: Submitted to NAACL 2022
