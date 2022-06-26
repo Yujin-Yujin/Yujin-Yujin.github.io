@@ -143,15 +143,15 @@ publications:
     #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
     #   bibendum fringilla a eu lectus.
     papers:
-      - title: Modularized Transfer Learning with Multiple Knowledge Graphs for Commonsense Reasoning
-        link: "#"
+      - title: Modularized Transfer Learning with Multiple Knowledge Graphs for Zero-shot Commonsense Reasoning
+        link: "https://arxiv.org/abs/2206.03715"
         authors: Yu Jin Kim, Beong-woo Kwak, Youngwook Kim, Reinald Kim Amplayo, Seung-won Hwang, Jinyoung Yeo
-        conference: Submitted to NAACL 2022
+        conference: NAACL 2022 (Long paper) - Oral Presentation
 
       - title: "TrustAL: Trustworthy Active Learning using Knowledge Distillation"
-        link: "#"
+        link: "https://arxiv.org/abs/2201.11661"
         authors: Beong-woo Kwak, Youngwook Kim, Yu Jin Kim, Seung-won Hwang, Jinyoung Yeo 
-        conference: AAAI 2022
+        conference: AAAI 2022 (Regular paper) - Poster Presentation
 
       # - title: A syntax directed compiler for Algol 60
       #   link: "#"
